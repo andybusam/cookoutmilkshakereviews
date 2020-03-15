@@ -1,37 +1,19 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# Milkshakes!
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+Cookoutmilkshakereviews.com is a weird, intentionally irreverant, and poorly designed website that rates the most popular milkshakes at the Southern American fast food chain popular with people who have a limited budget and big appetite. 
 
-## Getting Started
+## Background
 
-Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
+Katie Quine and Andy Busam created this website in 2017 as a side project while working at Our State Magazine in Greensboro, NC. 
 
-## Developing Using Source Files
-
-To use the source files, you will need to have npm installed globally along with Gulp.js. To start:
-* Run `npm install` in the root directory
-* Run `gulp dev` and edit the files as needed
-
-If you need to update the plugins included with this template, simply run the following tasks:
-* First run `npm update` to update the dependencies
-* Then run `gulp copy` to copy the new versions to their proper destinations
+In the subsequent months and years, it has gained moderate interest from the small, but loyal, legion of Cook Out Milkshake fans. While readers periodically request new reviews to be added, the site creators have refrained. This is not out of spite, but sheer lack of time, priority, or willingness to learn how to use surge.sh again. 
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+Have a bug or an issue with this this site? Open a new issue or just work around it.
 
-## Creator
+## Base Template
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+This site was created with the Start Bootstrap theme. The code was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
